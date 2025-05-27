@@ -57,6 +57,7 @@ header a:hover, footer:hover{
 }
 section > p{
     padding-bottom: 2em;
+    text-align: justify;
 }
 
 section.normal{
